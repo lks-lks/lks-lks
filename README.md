@@ -17,7 +17,7 @@ Já atuei com **churn, categorização de falhas, dados sensoriais e telemetria*
 - Varejo
 - Logística
 - Saúde
-- Tecnologia e muito mais
+- Tecnologia
 
 ---
 
@@ -35,7 +35,7 @@ Já atuei com **churn, categorização de falhas, dados sensoriais e telemetria*
 
 ### 📂 **Projetos em Destaque** *(em breve)*
 
-> Os repositórios serão atualizados com projetos reais de:
+> Os repositórios serão atualizados com projetos de:
 
 - [Classificação de Falhas em Bombas Industriais](https://github.com/lks-lks/Classifica-o-de-falhas-em-bombas-industriais)  
   Classificador de falhas com sensores e ML supervisionado, aplicando Random Forest e XGBoost em ambiente industrial.
@@ -46,7 +46,8 @@ Já atuei com **churn, categorização de falhas, dados sensoriais e telemetria*
 - [Visualização de dados com foco técnico](https://github.com/lks-lks/visualizacao-de-dados-com-foco-tecnico)  
   Visualização de dados gerados para simulação com foco mais técnico.
 
-> - Modelos preditivos com ML supervisionado
+- [Modelos preditivos com ML supervisionado](https://github.com/lks-lks/Ml-Supervisionado-Produtividade).
+  
 > - Análise e modelagem de séries temporais
 > - Sistemas automatizados de decisão com dados ao vivo
 
@@ -57,4 +58,4 @@ Já atuei com **churn, categorização de falhas, dados sensoriais e telemetria*
 
 ---
 
-Sinta-se à vontade para explorar, colaborar ou entrar em contato.
+Sinta-se à vontade para entrar em contato.
